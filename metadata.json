@@ -1,0 +1,9 @@
+{
+  "name": "IdeaFlow AI Whiteboard",
+  "description": "A Mac-style minimalist interactive whiteboard with AI-powered summarization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "clipboard-read"
+  ]
+}
